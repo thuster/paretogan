@@ -1,18 +1,18 @@
 # Pareto GAN
 
-##Install dependencies
+## Install dependencies
 ```
 pip install torch numpy matplotlib pandas scipy
 ```
 Note: we recommend installing torch with GPU support
 
-##Run an experiment
+## Run an experiment
 ```
 python exp -ds 3 -type pareto
 python exp -ds 3 -type normal
 ```
 
-##Options
+## Options
 GAN type: 
  * pareto
  * uniform
