@@ -13,13 +13,13 @@ python exp -ds 3 -type normal
 ```
 
 ## Options
-GAN type: 
+GAN type (-type): 
  * pareto
  * uniform
  * normal
  * lognormal
 
-ds: 
+Dataset (-ds): 
  * 0: Keystrokes
  * 1: Wiki Traffic
  * 2: Live Journal
